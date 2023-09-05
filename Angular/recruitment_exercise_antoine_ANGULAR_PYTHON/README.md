@@ -108,4 +108,11 @@ Based on the OpenAPI JSON spec (http://localhost:8000/openapi.json), this tool w
 Depending on your platform, you can either download a JAR, install the generator using Homebrew, or execute a Docker image.
 
 ## Preview
-![Exemple 1](https://cdn.discordapp.com/attachments/934924497767792671/1146495459867754586/image.png)https://cdn.discordapp.com/attachments/934924497767792671/1146495459867754586/image.png)
+![Exemple 1](https://cdn.discordapp.com/attachments/934924497767792671/1146495459867754586/image.png)
+![Exemple 2](https://cdn.discordapp.com/attachments/934924497767792671/1146495530420154481/image.png)
+![Exemple 3](https://cdn.discordapp.com/attachments/934924497767792671/1146495559599923220/image.png)
+![Exemple 4](https://cdn.discordapp.com/attachments/934924497767792671/1146495605670150154/image.png)
+![Exemple 5](https://cdn.discordapp.com/attachments/934924497767792671/1146495632270426132/image.png)
+![Exemple 6](https://cdn.discordapp.com/attachments/934924497767792671/1146495688776106064/image.png)
+![Exemple 7](https://cdn.discordapp.com/attachments/934924497767792671/1146495767536738325/image.png)
+
