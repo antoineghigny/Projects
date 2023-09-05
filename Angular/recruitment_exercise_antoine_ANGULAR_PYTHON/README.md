@@ -1,5 +1,3 @@
-![Amoobi logo](images/Amoobi_250px.png "Amoobi logo")
-
 # R&D recruitment exercise
 
 The purpose of this exercise is to evaluate your Angular skills, basic knowledge of Python and your thought process.
