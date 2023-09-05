@@ -1,0 +1,35 @@
+<div class="max-w-screen-xl mx-auto relative">
+  <form [formGroup]="form" class="grid grid-cols-1 md:grid-cols-2">
+    <div class="flex items-center mb-1 mr-2 mt-2 flex-grow">
+      <div>
+        <label for="minWeekInput">Enter min week and year: </label>
+        <app-input
+          [(value)]="minWeekInput"
+          [inputType]="minimum"
+          [isError]="minWeekErrorMessage !== ''"
+          (valueChange)="handleWeekInputBlur('min')">
+        </app-input>
+        <div class="max-w-[150px] relative">
+          <app-error-message *ngIf="minWeekErrorMessage" [message]="minWeekErrorMessage" class="text-xs absolute bg-white p-2 rounded border border-gray-300 shadow-md z-10"></app-error-message>
+        </div>
+      </div>
+      <app-strategy-dropdown [options]="options" [selectedValue]="selectedStrategy" (optionSelected)="handleOptionSelected($event, 'min')"></app-strategy-dropdown>
+
+    </div>
+    <div class="flex items-center mb-1 mr-2 md:mt-2 flex-grow">
+      <div>
+        <label for="maxWeekInput">Enter max week and year: </label>
+        <app-input
+          [(value)]="maxWeekInput"
+          [inputType]="maximum"
+          [isError]="maxWeekErrorMessage !== ''"
+          (valueChange)="handleWeekInputBlur('max')">
+        </app-input>
+        <div class="max-w-[150px] relative">
+          <app-error-message *ngIf="maxWeekErrorMessage" [message]="maxWeekErrorMessage" class="text-xs absolute bg-white p-2 rounded border border-gray-300 shadow-md z-10"></app-error-message>
+        </div>
+      </div>
+      <app-strategy-dropdown [options]="options" [selectedValue]="selectedStrategy2" (optionSelected)="handleOptionSelected($event, 'max')"></app-strategy-dropdown>
+    </div>
+  </form>
+</div>

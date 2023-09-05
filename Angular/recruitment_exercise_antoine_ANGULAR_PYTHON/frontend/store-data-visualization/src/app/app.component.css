@@ -1,0 +1,19 @@
+main {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: linear-gradient(#dadada 1px, transparent 1px),
+  linear-gradient(90deg, #dadada 1px, transparent 1px);
+  background-size: 24px 25px; /* Ajustez la taille du quadrillage ici */
+  background-position: center center;
+  background-color: #ffffff; /* Couleur de fond générale */
+}
+
+@media screen and (min-width: 768px) {
+  main {
+    background-size: 35px 25px; /* Ajustez la taille du quadrillage pour les écrans plus larges */
+  }
+}
