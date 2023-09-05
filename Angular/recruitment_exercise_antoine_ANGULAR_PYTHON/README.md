@@ -106,3 +106,6 @@ One way to generate an Angular client of the back-end is to use [OpenAPI Generat
 Based on the OpenAPI JSON spec (http://localhost:8000/openapi.json), this tool will automatically generate a client in the language/framework of your choice.
 
 Depending on your platform, you can either download a JAR, install the generator using Homebrew, or execute a Docker image.
+
+## Preview
+![]([images/bbox.png](https://cdn.discordapp.com/attachments/934924497767792671/1146495459867754586/image.png)https://cdn.discordapp.com/attachments/934924497767792671/1146495459867754586/image.png)
