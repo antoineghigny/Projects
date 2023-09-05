@@ -48,36 +48,6 @@ The emphasis is on code quality, good practices and efficiency.
 * use the provided API to validate the period selected by the user
 * represent the data returned by the API in a visual way that you find relevant
 
-### Bonus
-
-If you still have some time to spend on the exercise, you can add a second page in the Angular application.
-This page will display a map of the store with some zones on it.
-
-You will find the data required for this in the Bonus section of the API.
-There are 3 different endpoints:
-
-* `get_map` returns a PNG file representing the store
-* `get_bounding_box` returns a bounding box corresponding to the store (more information below)
-* `get_zones` returns a list of zones with their names, colors and coordinates
-
-The goal of this bonus exercise is to:
-
-* display the store map and represent the zones on top of it
-* each zone should have its own color and be partially transparent so we can see the map beneath it
-
-#### Bounding box
-
-The bounding box is represented using 4 values:
-
-* `min_x`
-* `max_x`
-* `min_y`
-* `max_y`
-
-It allows you to convert the zones coordinates into pixels for plotting zones onto the PNG image.
-
-![Bounding box representation](images/bbox.png)
-
 ## Back-end
 
 A basic back-end is already implemented in the corresponding folder.
