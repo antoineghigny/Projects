@@ -1,25 +1,25 @@
 # Trainings Repository
 
-Bienvenue dans mon repository d'entrainement ! Ici, je répertorie une variété de petits projets, d'exercices de recrutement et d'autres ressources qui reflètent mon parcours d'apprentissage en développement informatique.
+Welcome to my training repository! Here, I list a variety of small projects, recruitment exercises, and other resources that reflect my learning journey in computer development.
 
-## Objectif
+## Objective
 
-L'objectif principal de ce repository est de documenter et de suivre mon voyage d'apprentissage. Je crois fermement à l'idée que l'apprentissage est un processus continu, et ce repository est le reflet de mon engagement à constamment améliorer mes compétences en développement.
+The main goal of this repository is to document and track my learning journey. I firmly believe in the idea that learning is a continuous process, and this repository reflects my commitment to constantly improving my development skills.
 
-## Contenu
+## Content
 
-Voici ce que vous pouvez trouver dans ce repository :
+Here's what you can find in this repository:
 
-- **Projets Personnels** : J'aime entreprendre des projets personnels pour explorer de nouvelles idées, apprendre de nouvelles technologies et relever des défis créatifs. Vous trouverez ici une variété de petits projets que j'ai réalisés pour le plaisir et pour acquérir de l'expérience.
+- **Personal Projects**: I enjoy undertaking personal projects to explore new ideas, learn new technologies, and tackle creative challenges. You'll find a variety of small projects here that I've completed for fun and to gain experience.
 
-- **Exercices de Recrutement** : Au fil du temps, j'ai eu l'opportunité de participer à divers exercices de recrutement. Qu'il s'agisse de résoudre des problèmes algorithmiques, de créer des mini-applications ou de démontrer mes compétences en codage, je les ai tous conservés ici pour documenter mon parcours professionnel.
+- **Recruitment Exercises**: Over time, I've had the opportunity to participate in various recruitment exercises. Whether it's solving algorithmic problems, creating mini-applications, or demonstrating my coding skills, I've kept them all here to document my professional journey.
 
-## Pourquoi ce Repository ?
+## Why this Repository?
 
-J'ai créé ce repository pour plusieurs raisons :
+I created this repository for several reasons:
 
-- Garder une trace de mon progrès et de mes réalisations en développement.
+- To keep track of my progress and achievements in development.
 
-- Fournir une vitrine de mon travail à d'autres développeurs, employeurs potentiels ou simplement à ceux qui souhaitent en savoir plus sur mon parcours.
+- To provide a showcase of my work to other developers, potential employers, or anyone interested in learning more about my journey.
 
-- Encourager la collaboration et l'apprentissage mutuel en partageant mes expériences et mes connaissances avec la communauté.
+- To encourage collaboration and mutual learning by sharing my experiences and knowledge with the community.
