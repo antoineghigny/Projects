@@ -1,3 +1,3 @@
-# Projets Angular
+# Angular Projects
 
-Ce répertoire "angular" contient une collection de mes projets basés sur Angular. Ces projets sont destinés à améliorer mes compétences en développement avec ce framework.
+This "angular" repository contains a collection of my projects based on Angular. These projects are aimed at enhancing my development skills with this framework.
